@@ -1,2 +1,2 @@
-# books_analysis
-Data analysis of business literature
+# books_scraper
+Web-scraper of business literature in a Belarusian bookstore
